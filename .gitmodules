@@ -1,6 +1,6 @@
 [submodule "src/ledger-user"]
 	path = src/ledger-user
-	url = https://github.com/cosmos/ledger-cosmos-app
+	url = git@github.com:skywills/ledger-mxw-app
 [submodule "src/ledger-val"]
 	path = src/ledger-val
 	url = git@github.com:tendermint/ledger-validator-app.git
